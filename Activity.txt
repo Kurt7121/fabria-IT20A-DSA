@@ -1,0 +1,3 @@
+Name: Kurt Jastin fabria
+course: IT20A
+Activity: basic of git and git hub
